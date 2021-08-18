@@ -1,7 +1,5 @@
 ### Hi there 👋
-
- - [Youtube](https://www.youtube.com/channel/UCWTLhpXBvl0g8bMhg4ZhM4w)
- - [Spotify](https://open.spotify.com/artist/5i2L3lzGSRZBXlQo2y7Bfo)
+I'm a xaml, c#, c++, php, css, js, python programmer and my other hobby is music making. See my [Youtube](https://www.youtube.com/channel/UCWTLhpXBvl0g8bMhg4ZhM4w) and [Spotify](https://open.spotify.com/artist/5i2L3lzGSRZBXlQo2y7Bfo)
 
 <!--
 **kapasifulop/kapasifulop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
